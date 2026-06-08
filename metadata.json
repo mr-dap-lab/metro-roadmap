@@ -1,0 +1,10 @@
+{
+  "name": "MetroMap Architect",
+  "description": "A spatial product planning tool connecting high-level metro-style roadmaps to tactical feature maps for streamlined product delivery.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
